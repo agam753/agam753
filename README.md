@@ -1,4 +1,4 @@
-![logo](https://github.com/agam753/agam753/blob/bd7c72f9768731cccbb5f35fa4e5ed9c2211edb0/banner.png)
+
 <h1 align="center">Hi, I'm Agam Gupta</h1>
 <h3 align="center">DSA Grinder and a passionate Frontend Developer</h3>
 
